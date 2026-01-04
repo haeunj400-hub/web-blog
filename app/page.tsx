@@ -1,5 +1,8 @@
+import Services from "./Services" //Services.tsx 가져오기
 export default function Home(){
   return(
+    <> 
+    {/*Introduce*/}
     <div className="flex min-h-screen items-center justify-center bg-background">
      <main className="flex min-h-screen flex-col items-center justify-between py-32 px-16">
       <div className="flex flex-col items-center py-32 px-32 space-y-6 text-center">
@@ -10,6 +13,10 @@ export default function Home(){
      </div>
    </main>
   </div>
+
+  {/*Service*/}
+  <Services />
+</>
 );
 }
 
