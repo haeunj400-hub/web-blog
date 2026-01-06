@@ -1,4 +1,4 @@
-// 필요한 아이콘 가져옴
+//아이콘 가져옴
 import { BiGlobe, BiLogoWordpress, BiCodeAlt, BiLineChart, BiShieldAlt } from "react-icons/bi";
 
 //export로 내보냄

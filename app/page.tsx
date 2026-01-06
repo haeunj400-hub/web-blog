@@ -1,4 +1,7 @@
 import Services from "./Services" //Services.tsx 가져오기
+import Keyprojects from "./Keyprojects"
+import Contact from "./Contact"
+
 export default function Home(){
   return(
     <> 
@@ -16,6 +19,10 @@ export default function Home(){
 
   {/*Service*/}
   <Services />
+  {/*KeyProjects*/}
+  <Keyprojects />
+   {/*Contact*/}
+  <Contact />
 </>
 );
 }
