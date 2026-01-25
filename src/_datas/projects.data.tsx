@@ -11,101 +11,101 @@ export type Project = {
 export const projects: Project[] = [
   {
     id: "first-agent",
-    title: "Clove",
+    title: "rabbit",
     description:
-      "Clove, a Scottish mischief-maker, torments his enemies both in the heat of battle and in the cold of death. A young immortal, Clove instills in his enemies the unease of his imminent return.",
+      "A rabbit is a herbivorous animal with long ears and strong hind legs, known for its ability to run and jump quickly.It is generally gentle and often eats grass and vegetables.",
     coverImage: {
-      src: "/projects/clove2.jpg",
+      src: "/projects/rabbit.jpg",
       alt: "The First Agent",
     },
   },
   {
     id: "second-agent",
-    title: "Omen",
+    title: "Pomeranian",
     description:
-      "Omen, the Ghost of Memory, hunts from the shadows. His ability to blind enemies, move anywhere on the battlefield, and induce paranoia leaves opponents confused and unable to predict his next attack.",
+      "A Pomeranian is a small, fluffy dog known for its lively personality and fox-like face. It is intelligent, affectionate, and popular as a companion pet.",
     coverImage: {
-      src: "/projects/omen.jpg",
+      src: "/projects/dog.jpg",
       alt: "The Second Agent",
     },
   },
   {
     id: "third-agent",
-    title: "Viper",
+    title: "Persian",
     description:
-      "Viper, an American chemist, uses a variety of chemical weapons to dominate the battlefield and blind the enemy. Even if you survive the chemical attack, you'll be playing into Viper's psychological warfare.",
+      "A Persian cat is a long-haired cat known for its flat face and calm, gentle nature. It is affectionate and enjoys a quiet, comfortable environment.",
     coverImage: {
-      src: "/projects/viper2.jpg",
+      src: "/projects/cat.jpg",
       alt: "The Third Agent",
     },
   },
   {
     id: "fourth-agent",
-    title: "Deadlock",
+    title: "Duck",
     description:
-      "Norwegian agent Deadlock deploys cutting-edge nanowires to defend against threatening attacks on the battlefield. No one can escape Deadlock's surveillance or survive his relentless attacks.",
+      "A duck is a waterfowl with a flat bill and webbed feet, well adapted for swimming. It lives near water and feeds on plants and small animals.",
     coverImage: {
-      src: "/projects/deadlock.png",
+      src: "/projects/duck.png",
       alt: "The fourth Agent",
     },
   },
   {
     id: "fifth-agent",
-    title: "ISO",
+    title: "Flying squirrel",
     description:
-      "A hired Chinese troubleshooter, Iso enters a state of focus and disrupts his enemies. Iso reconstructs the surrounding energy into a bulletproof shield, propelling himself forward and focusing on his next duelist until he is defeated.",
+      "A flying squirrel is a small squirrel that can glide between trees using a skin membrane. It is mostly nocturnal and lives in forested areas.",
     coverImage: {
-      src: "/projects/ISO.jpg",
+      src: "/projects/squirrel.jpg",
       alt: "The fifth Agent",
     },
   },
   {
     id: "sixth-agent",
-    title: "JETT",
+    title: "Meerkat",
     description:
-      "Jet, a Korean-born fighter known for his swift and stealthy movements, is not afraid to take risks that others would never dare. When combat breaks out, he invariably uses his superior abilities to launch surprise attacks.",
+      "A meerkat is a small mammal that lives in groups and stands upright to watch for danger.  It is social, alert, and commonly found in desert regions.",
     coverImage: {
-      src: "/projects/jett.jpg",
+      src: "/projects/meerkat.jpg",
       alt: "The sixth Agent",
     },
   },
   {
     id: "seventh-agent",
-    title: "GOGUMA",
+    title: "Skunk",
     description:
-      "GOGUMA is JMT. Muckgossipdda..",
+      "A skunk is a small mammal known for its black-and-white fur and its ability to spray a strong-smelling liquid to defend itself from danger.",
     coverImage: {
-      src: "/projects/GOGUMA.jpg",
+      src: "/projects/skunk.jpg",
       alt: "The seventh Agent",
     },
   },
   {
     id: "eighth-agent",
-    title: "GOGUMA",
+    title: "Red panda",
     description:
-      "GOGUMA is JMT. Muckgossipdda..",
+      "A red panda is a small mammal with reddish-brown fur and a long, bushy tail, known for its shy nature and tree-dwelling lifestyle.",
     coverImage: {
-      src: "/projects/GOGUMA.jpg",
+      src: "/projects/panda.jpg",
       alt: "The eighth Agent",
     },
   },
   {
     id: "ninth-agent",
-    title: "GOGUMA",
+    title: "Capybara",
     description:
-      "GOGUMA is JMT. Muckgossipdda..",
+      "A capybara is the world’s largest rodent, known for its calm temperament and semi-aquatic lifestyle, often living near rivers and lakes.",
     coverImage: {
-      src: "/projects/GOGUMA.jpg",
+      src: "/projects/capybara.jpg",
       alt: "The ninth Agent",
     },
   },
   {
     id: "tenth-agent",
-    title: "GOGUMA",
+    title: "Arctic fox",
     description:
-      "GOGUMA is JMT. Muckgossipdda..",
+      "An Arctic fox is a small fox with thick fur that changes color with the seasons, allowing it to survive in extremely cold Arctic environments.",
     coverImage: {
-      src: "/projects/GOGUMA.jpg",
+      src: "/projects/fox.jpg",
       alt: "The tenth Agent",
     },
   },
