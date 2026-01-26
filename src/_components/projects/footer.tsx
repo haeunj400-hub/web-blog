@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="w-[370px] h-[191px] flex flex-col max-w-sm"> 
           {/* 자기소개 문구.leading:줄간격 넉넉하게 */} 
           <p className="text-[16px] font-light leading-relaxed">
-            Chaeyeong Park is an experienced web developer in Korea, 
+            Haeun Cho is an experienced web developer in Korea, 
             specializing in responsive, user-friendly websites and 
             custom solutions to grow your business. Contact today.
           </p>
@@ -41,28 +41,28 @@ export default function Footer() {
             <h3 className="mb-[20px] text-[18px] font-normal">What is this song?</h3>
             <ul className="flex flex-col space-y-2 text-center text-[16px] font-light">
                 <li>
-                <a href="https://youtu.be/U0PkAWqbGPk?si=Jkb4CQxMf7jmQC18" target="_blank" rel="noopener noreferrer">
-                  The black skirts
+                <a href="https://youtu.be/UM9XNpgrqVk?si=j7TKRQt23Cg74pgc" target="_blank" rel="noopener noreferrer">
+                  Kaiju no hanata
                 </a>
               </li>
               <li>
-                <a href="https://youtu.be/MPCkqAvYtyM?si=J81WS3Tpa84V3WgU" target="_blank" rel="noopener noreferrer">
-                  Parasol
+                <a href="https://youtu.be/s4jHQXd-7gg?si=rayFZwqQh1Kx4_2P" target="_blank" rel="noopener noreferrer">
+                  Kidult
                 </a>
               </li>
               <li>
-                <a href="https://youtu.be/YTKyaHIK3hM?si=YKJvDPc5BjUtkUTq" target="_blank" rel="noopener noreferrer">
-                  Ghost Bookstore
+                <a href="https://youtu.be/7q9Ubv3othc?si=zMK1wMLnmWOrpEc5" target="_blank" rel="noopener noreferrer">
+                  To you
                 </a>
               </li>
               <li>
-                <a href="https://youtu.be/pFptt7Cargc?si=0GFMinwh_GjiYamR" target="_blank" rel="noopener noreferrer">
-                  Tame impala
+                <a href="https://youtu.be/vvN4FgqNXwE?si=eBbktLwCJ9vnYSrj" target="_blank" rel="noopener noreferrer">
+                  이마세카
                 </a>
               </li>
               <li>
-                <a href="https://youtu.be/DIPxnt5vnhU?si=boTWvqFTvi3m7T2N" target="_blank" rel="noopener noreferrer">
-                  Silica Gel
+                <a href="https://youtu.be/MUbaO277HNo?si=lf8TKENJm9QvPxG9" target="_blank" rel="noopener noreferrer">
+                  Cheerful vibes echo
                 </a>
               </li>
             </ul>
@@ -72,23 +72,23 @@ export default function Footer() {
             <h3 className="mb-[20px] text-[18px] font-normal">Anime Watchlist</h3>
             <ul className="flex flex-col space-y-2 text-center text-[16px] font-light">
                 <li>
-                <a href="https://namu.wiki/w/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%20%EB%A7%88%EB%8F%84%EC%B9%B4%E2%98%86%EB%A7%88%EA%B8%B0%EC%B9%B4" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
-                  마법소녀 마도카☆마기카
+                <a href="https://namu.wiki/w/%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0%20%EC%8B%A0%EB%A0%B9%EB%8B%98" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                  오늘부터 신령님
                 </a>
               </li>
               <li>
-                <a href="https://namu.wiki/w/%EA%B0%95%EC%B2%A0%EC%9D%98%20%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC(2003%EB%85%84%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)" target="_blank" rel="noopener noreferrer">
-                  강철의 연금술사
+                <a href="https://namu.wiki/w/%ED%98%B8%EB%A6%AC%EB%AF%B8%EC%95%BC(TVA)" target="_blank" rel="noopener noreferrer">
+                  호리미야
                 </a>
               </li>
               <li>
-                <a href="https://namu.wiki/w/%EC%97%90%EB%B0%98%EA%B2%8C%EB%A6%AC%EC%98%A8" target="_blank" rel="noopener noreferrer">
-                  에반게리온
+                <a href="https://namu.wiki/w/%EC%95%BC%EB%A7%88%EB%8B%A4%20%EA%B5%B0%EA%B3%BC%20Lv999%EC%9D%98%20%EC%82%AC%EB%9E%91%EC%9D%84%20%ED%95%98%EB%8B%A4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98" target="_blank" rel="noopener noreferrer">
+                  야마다군과 Lv 999의 사랑을 하다
                 </a>
               </li>
               <li>
-                <a href="https://namu.wiki/w/%EB%8D%B0%EC%8A%A4%EB%85%B8%ED%8A%B8" target="_blank" rel="noopener noreferrer">
-                  데스노트
+                <a href="https://namu.wiki/w/%EC%98%A4%EB%9E%80%EA%B3%A0%EA%B5%90%20%EC%82%AC%EA%B5%90%ED%81%B4%EB%9F%BD" target="_blank" rel="noopener noreferrer">
+                  오란고교 사교클럽
                 </a>
               </li>
             </ul>
@@ -96,8 +96,8 @@ export default function Footer() {
         </div>
       </div>
       <div className="max-w-7xl mx-auto py-8 flex justify-between items-center text-sm font-light">
-        <p>© 2026 Chaeyeong Park. All rights reserved.</p>
-        <p>Last updated by Chaeyeong on 13 January, 2026 at 6:00 PM UTC 09:00</p>
+        <p>© 2026 Haeun Cho. All rights reserved.</p>
+        <p>Last updated by Haeun on 26 January, 2026 at 7:04 PM UTC 09:00</p>
       </div>
     </footer>
   );
