@@ -15,7 +15,7 @@ export const projects: Project[] = [
     description:
       "A rabbit is a herbivorous animal with long ears and strong hind legs, known for its ability to run and jump quickly.It is generally gentle and often eats grass and vegetables.",
     coverImage: {
-      src: "/projects/rabbit.jpg",
+      src: "/projects/rabbit.jpeg",
       alt: "The First Agent",
     },
   },
@@ -25,7 +25,7 @@ export const projects: Project[] = [
     description:
       "A Pomeranian is a small, fluffy dog known for its lively personality and fox-like face. It is intelligent, affectionate, and popular as a companion pet.",
     coverImage: {
-      src: "/projects/dog.jpg",
+      src: "/projects/dog.jpeg",
       alt: "The Second Agent",
     },
   },
@@ -35,7 +35,7 @@ export const projects: Project[] = [
     description:
       "A Persian cat is a long-haired cat known for its flat face and calm, gentle nature. It is affectionate and enjoys a quiet, comfortable environment.",
     coverImage: {
-      src: "/projects/cat.jpg",
+      src: "/projects/cat.jpeg",
       alt: "The Third Agent",
     },
   },
@@ -45,7 +45,7 @@ export const projects: Project[] = [
     description:
       "A duck is a waterfowl with a flat bill and webbed feet, well adapted for swimming. It lives near water and feeds on plants and small animals.",
     coverImage: {
-      src: "/projects/duck.png",
+      src: "/projects/duck.jpeg",
       alt: "The fourth Agent",
     },
   },
@@ -55,7 +55,7 @@ export const projects: Project[] = [
     description:
       "A flying squirrel is a small squirrel that can glide between trees using a skin membrane. It is mostly nocturnal and lives in forested areas.",
     coverImage: {
-      src: "/projects/squirrel.jpg",
+      src: "/projects/squirrel.jpeg",
       alt: "The fifth Agent",
     },
   },
@@ -65,7 +65,7 @@ export const projects: Project[] = [
     description:
       "A meerkat is a small mammal that lives in groups and stands upright to watch for danger.  It is social, alert, and commonly found in desert regions.",
     coverImage: {
-      src: "/projects/meerkat.jpg",
+      src: "/projects/meerkat.jpeg",
       alt: "The sixth Agent",
     },
   },
@@ -75,7 +75,7 @@ export const projects: Project[] = [
     description:
       "A skunk is a small mammal known for its black-and-white fur and its ability to spray a strong-smelling liquid to defend itself from danger.",
     coverImage: {
-      src: "/projects/skunk.jpg",
+      src: "/projects/skunk.jpeg",
       alt: "The seventh Agent",
     },
   },
@@ -85,7 +85,7 @@ export const projects: Project[] = [
     description:
       "A red panda is a small mammal with reddish-brown fur and a long, bushy tail, known for its shy nature and tree-dwelling lifestyle.",
     coverImage: {
-      src: "/projects/panda.jpg",
+      src: "/projects/panda.jpeg",
       alt: "The eighth Agent",
     },
   },
@@ -95,7 +95,7 @@ export const projects: Project[] = [
     description:
       "A capybara is the world’s largest rodent, known for its calm temperament and semi-aquatic lifestyle, often living near rivers and lakes.",
     coverImage: {
-      src: "/projects/capybara.jpg",
+      src: "/projects/capybara.jpeg",
       alt: "The ninth Agent",
     },
   },
@@ -105,7 +105,7 @@ export const projects: Project[] = [
     description:
       "An Arctic fox is a small fox with thick fur that changes color with the seasons, allowing it to survive in extremely cold Arctic environments.",
     coverImage: {
-      src: "/projects/fox.jpg",
+      src: "/projects/fox.jpeg",
       alt: "The tenth Agent",
     },
   },
