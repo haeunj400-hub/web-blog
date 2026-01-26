@@ -1,0 +1,31 @@
+import type { Metadata } from "next";
+import { Quicksand} from "next/font/google";
+import "./globals.css";
+import Navbar from "@/src/_components/projects/Navbar"
+import Footer from "@/src/_components/projects/footer"
+
+const quicksand = Quicksand({
+  subsets: ["latin"],
+  weight: ["300", "400", "500", "600", "700"],
+  variable: "--font-sans",
+});
+
+export const metadata: Metadata = {
+  title: "Haeun Cho | Web",
+  description: "Computer science student",
+};
+
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html>
+      <body>
+        <div className="flex flex-col items-center mx-auto"> 
+          <Navbar /> 
+          <main>{children}</main>
+          <Footer/>
+        </div>
+      </body>
+    </html>
+  );
+}
